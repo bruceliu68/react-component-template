@@ -1,2 +1,9 @@
 # react-component-template
-react 组件 npm包模板
+react npm发包脚手架
+
+# npm run dev
+
+# npm run build
+
+## License
+MIT
