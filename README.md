@@ -1,8 +1,23 @@
 ### npm 发包工程
 
-### 先按照依赖
+### 先安装依赖
 ```sh
 npm install
+```
+
+### 启动
+```sh
+npm run start
+```
+
+### 打包
+```sh
+npm run build2
+```
+
+### 发布
+```sh
+npm publish
 ```
 
 ### 如何使用
